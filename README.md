@@ -10,6 +10,8 @@ modules: [
 	{
 		module: "weatherforecast",
 		
+		header: "België",
+		
 		position: "top_right",	// This can be any of the regions.
 		
 									// Best results in left or right regions.
